@@ -59,7 +59,7 @@ communicated via an executive decision memo.
 | `sales_forecasting_analysis.ipynb` | Full Jupyter Notebook with all code |
 | `monthly_sales_trend.png` | Historical monthly sales trend chart |
 | `sales_forecast.png` | 6-month forecast with uncertainty range |
-| `category_trends.png` | Category-level trend charts |
+| `category_trends1.png`,`category_trends2.png` | Category-level trend charts |
 | `Sales_Forecasting_Decision_Memo.pdf` | Executive scenario planning memo |
 
 ---
