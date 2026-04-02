@@ -73,7 +73,7 @@ Uncertainty intervals represent 80% confidence range.
 ---
 
 ## Dashboard Preview
-![Forecast](sales_forecast.png)
+![Forecast](sales_forecast.jpg)
 
 ---
 
